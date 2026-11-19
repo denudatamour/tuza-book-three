@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-20",
+  "version": "1.0.1",
+  "node": "26.13.1",
+  "python": "3.12.14",
+  "pdflatex": "pdfTeX 3.141592653-2.6-1.40.25 (TeX Live 2023)",
+  "pypdf": "6.21.4",
+  "reportlab": "4.4.9",
+  "pdf_pages": 6,
+  "pdf_sha256": "c3e881ec65deb08badae08e0879e4bfa33d799290dc5fe0debbcc5c7f5bec8ea",
+  "local_certificate_check": "passed",
+  "github_actions_run": "not_run",
+  "visual_qa": "All six pages rendered and inspected; no clipping or overlap observed.",
+  "mathematics": "Definitions through the bibliography and scope paragraph unchanged from v1.0.",
+  "review_scope": "Archive repair verification; not a new full mathematical review."
+}

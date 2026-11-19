@@ -1,0 +1,10 @@
+Copyright (c) 2026 Haimin Zhou.
+
+The manuscript PDF and LaTeX source (paper/, tuza-book-three.pdf and
+tuza-book-three.tex), proof exposition (proofs/), and prose documentation
+are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+License text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Original software in verification/ and .github/ is licensed under the MIT
+License in LICENSE-CODE. Third-party works cited by the manuscript retain
+their own rights; the cited works are not redistributed here.

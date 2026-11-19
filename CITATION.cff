@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying preprint."
+type: software
+title: "A uniform gap below two for triangle packings and edge transversals in K4-free graphs of book size at most three"
+version: 1.0.1
+date-released: 2026-11-20
+url: "https://github.com/denudatamour/tuza-book-three"
+license: MIT
+authors:
+  - family-names: Zhou
+    given-names: Haimin
+    affiliation: Independent Researcher
+    email: haiminzhou.1@gmail.com
+preferred-citation:
+  type: unpublished
+  title: "A uniform gap below two for triangle packings and edge transversals in K4-free graphs of book size at most three"
+  version: 1.0.1
+  year: 2026
+  url: "https://github.com/denudatamour/tuza-book-three"
+  authors:
+    - family-names: Zhou
+      given-names: Haimin
+      affiliation: Independent Researcher
+      email: haiminzhou.1@gmail.com

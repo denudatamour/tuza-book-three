@@ -1,0 +1,118 @@
+{
+  "status": "PASS",
+  "checks": 220,
+  "rows": [
+    {
+      "profile": "111",
+      "fNumerator": 780,
+      "fDenominator": 780,
+      "localLossNumerator": 780,
+      "localLossDenominator": 780,
+      "coverNumerator": 768,
+      "coverDenominator": 768,
+      "priceSlackNumerator": null,
+      "priceSlackDenominator": 1048320
+    },
+    {
+      "profile": "211",
+      "fNumerator": 390,
+      "fDenominator": 780,
+      "localLossNumerator": 780,
+      "localLossDenominator": 780,
+      "coverNumerator": 624,
+      "coverDenominator": 768,
+      "priceSlackNumerator": null,
+      "priceSlackDenominator": 1048320
+    },
+    {
+      "profile": "221",
+      "fNumerator": 312,
+      "fDenominator": 780,
+      "localLossNumerator": 780,
+      "localLossDenominator": 780,
+      "coverNumerator": 528,
+      "coverDenominator": 768,
+      "priceSlackNumerator": 122928,
+      "priceSlackDenominator": 1048320
+    },
+    {
+      "profile": "311",
+      "fNumerator": 260,
+      "fDenominator": 780,
+      "localLossNumerator": 780,
+      "localLossDenominator": 780,
+      "coverNumerator": 544,
+      "coverDenominator": 768,
+      "priceSlackNumerator": null,
+      "priceSlackDenominator": 1048320
+    },
+    {
+      "profile": "222",
+      "fNumerator": 265,
+      "fDenominator": 780,
+      "localLossNumerator": 778,
+      "localLossDenominator": 780,
+      "coverNumerator": 456,
+      "coverDenominator": 768,
+      "priceSlackNumerator": 67960,
+      "priceSlackDenominator": 1048320
+    },
+    {
+      "profile": "321",
+      "fNumerator": 239,
+      "fDenominator": 780,
+      "localLossNumerator": 768,
+      "localLossDenominator": 780,
+      "coverNumerator": 472,
+      "coverDenominator": 768,
+      "priceSlackNumerator": 19496,
+      "priceSlackDenominator": 1048320
+    },
+    {
+      "profile": "322",
+      "fNumerator": 218,
+      "fDenominator": 780,
+      "localLossNumerator": 776,
+      "localLossDenominator": 780,
+      "coverNumerator": 412,
+      "coverDenominator": 768,
+      "priceSlackNumerator": 12212,
+      "priceSlackDenominator": 1048320
+    },
+    {
+      "profile": "331",
+      "fNumerator": 207,
+      "fDenominator": 780,
+      "localLossNumerator": 779,
+      "localLossDenominator": 780,
+      "coverNumerator": 428,
+      "coverDenominator": 768,
+      "priceSlackNumerator": 708,
+      "priceSlackDenominator": 1048320
+    },
+    {
+      "profile": "332",
+      "fNumerator": 192,
+      "fDenominator": 780,
+      "localLossNumerator": 780,
+      "localLossDenominator": 780,
+      "coverNumerator": 374,
+      "coverDenominator": 768,
+      "priceSlackNumerator": 18,
+      "priceSlackDenominator": 1048320
+    },
+    {
+      "profile": "333",
+      "fNumerator": 173,
+      "fDenominator": 780,
+      "localLossNumerator": 755,
+      "localLossDenominator": 780,
+      "coverNumerator": 339,
+      "coverDenominator": 768,
+      "priceSlackNumerator": 977,
+      "priceSlackDenominator": 1048320
+    }
+  ],
+  "conclusion": "177*tau <= 353*nu",
+  "scope": "Exact finite arithmetic only; the induction and geometric local-exchange proofs are audited separately."
+}

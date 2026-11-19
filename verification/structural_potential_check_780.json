@@ -1,0 +1,142 @@
+{
+  "status": "PASS",
+  "simple780": true,
+  "tests": 95,
+  "rows": [
+    {
+      "profile": "111",
+      "degree": 0,
+      "potential": "1/1",
+      "decimal": 1,
+      "localLoss780": "780/1",
+      "marginal2": null,
+      "marginal3": null,
+      "cover": "1/1",
+      "ratio": "1/1",
+      "ratioDecimal": 1,
+      "finalMargin": null
+    },
+    {
+      "profile": "211",
+      "degree": 1,
+      "potential": "1/2",
+      "decimal": 0.5,
+      "localLoss780": "780/1",
+      "marginal2": "1/2",
+      "marginal3": null,
+      "cover": "13/16",
+      "ratio": "13/8",
+      "ratioDecimal": 1.625,
+      "finalMargin": null
+    },
+    {
+      "profile": "221",
+      "degree": 2,
+      "potential": "2/5",
+      "decimal": 0.4,
+      "localLoss780": "780/1",
+      "marginal2": "1/10",
+      "marginal3": null,
+      "cover": "11/16",
+      "ratio": "55/32",
+      "ratioDecimal": 1.71875,
+      "finalMargin": "197/1680"
+    },
+    {
+      "profile": "311",
+      "degree": 2,
+      "potential": "1/3",
+      "decimal": 0.3333333333333333,
+      "localLoss780": "780/1",
+      "marginal2": null,
+      "marginal3": "1/6",
+      "cover": "17/24",
+      "ratio": "17/8",
+      "ratioDecimal": 2.125,
+      "finalMargin": null
+    },
+    {
+      "profile": "222",
+      "degree": 3,
+      "potential": "53/156",
+      "decimal": 0.33974358974358976,
+      "localLoss780": "778/1",
+      "marginal2": "47/780",
+      "marginal3": null,
+      "cover": "19/32",
+      "ratio": "741/424",
+      "ratioDecimal": 1.7476415094339623,
+      "finalMargin": "1699/26208"
+    },
+    {
+      "profile": "321",
+      "degree": 3,
+      "potential": "239/780",
+      "decimal": 0.30641025641025643,
+      "localLoss780": "768/1",
+      "marginal2": "7/260",
+      "marginal3": "73/780",
+      "cover": "59/96",
+      "ratio": "3835/1912",
+      "ratioDecimal": 2.0057531380753137,
+      "finalMargin": "2437/131040"
+    },
+    {
+      "profile": "331",
+      "degree": 4,
+      "potential": "69/260",
+      "decimal": 0.2653846153846154,
+      "localLoss780": "779/1",
+      "marginal2": null,
+      "marginal3": "8/195",
+      "cover": "107/192",
+      "ratio": "6955/3312",
+      "ratioDecimal": 2.09993961352657,
+      "finalMargin": "59/87360"
+    },
+    {
+      "profile": "322",
+      "degree": 4,
+      "potential": "109/390",
+      "decimal": 0.2794871794871795,
+      "localLoss780": "776/1",
+      "marginal2": "7/260",
+      "marginal3": "47/780",
+      "cover": "103/192",
+      "ratio": "6695/3488",
+      "ratioDecimal": 1.9194380733944953,
+      "finalMargin": "3053/262080"
+    },
+    {
+      "profile": "332",
+      "degree": 5,
+      "potential": "16/65",
+      "decimal": 0.24615384615384617,
+      "localLoss780": "780/1",
+      "marginal2": "1/52",
+      "marginal3": "1/30",
+      "cover": "187/384",
+      "ratio": "12155/6144",
+      "ratioDecimal": 1.9783528645833333,
+      "finalMargin": "1/58240"
+    },
+    {
+      "profile": "333",
+      "degree": 6,
+      "potential": "173/780",
+      "decimal": 0.22179487179487178,
+      "localLoss780": "755/1",
+      "marginal2": null,
+      "marginal3": "19/780",
+      "cover": "113/256",
+      "ratio": "22035/11072",
+      "ratioDecimal": 1.9901553468208093,
+      "finalMargin": "977/1048320"
+    }
+  ],
+  "bestNoSinglePage": {
+    "profile": "333",
+    "ratio": "22035/11072",
+    "decimal": 1.9901553468208093
+  }
+}
